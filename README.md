@@ -1,6 +1,6 @@
 # Hi there, I'm Jonas! 👋
 
-I'm a **Data Scientist** passionate about turning data into insights and solutions. I work primarily with **Python** and **SQL** to analyze, visualize, and build data-driven applications.
+I'm a **Data Scientist** passionate about turning data into insights and solutions. I have real experience in **business**, leveraging data to drive strategic decisions and improve processes. I work primarily with **Python** and **SQL** to analyze, visualize, and build data-driven applications that generate actionable insights..
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, SQL
