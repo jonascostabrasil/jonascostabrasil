@@ -13,7 +13,7 @@ I'm a **Data Scientist** passionate about turning data into insights and solutio
 Check out my repositories to see my latest projects on data analysis, machine learning, and automation.
 
 📫 **Let's connect!**
-- [LinkedIn](#) _(Add your LinkedIn link here)_
+- [LinkedIn](#) _(https://www.linkedin.com/in/jonascostabrasil/)_
 - [Portfolio](#) _(If you have a portfolio website, add it here)_
 
 🚀 Always exploring new ways to leverage data for impactful solutions!
