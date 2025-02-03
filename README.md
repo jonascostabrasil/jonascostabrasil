@@ -23,8 +23,3 @@ Check out my repositories to see my latest projects on data analysis, machine le
   <br>
 
 🚀 Always exploring new ways to leverage data for impactful solutions!
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonascostabrasil&layout=compact&show_icons=true&theme=dark"/>
-</div>
-<br>
