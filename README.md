@@ -12,14 +12,14 @@ I'm a **Data Scientist** passionate about turning data into insights and solutio
 ## 📌 Projects
 Check out my repositories to see my latest projects on data analysis, machine learning, and automation.
 
+🔗 **My GitHub Repositories:**  
+[**jonascostabrasil**](https://github.com/jonascostabrasil?tab=repositories)
+
 📫 **Let's connect!**
 
   <a href="mailto:jonascostabrasil@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" /></a>
   <a href="https://www.linkedin.com/in/jonascostabrasil/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" /></a>
   <br>
   <br>
-
-🔗 **My GitHub Repositories:**  
-[**jonascostabrasil**](https://github.com/jonascostabrasil?tab=repositories)
 
 🚀 Always exploring new ways to leverage data for impactful solutions!
