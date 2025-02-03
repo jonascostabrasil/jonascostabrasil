@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Jonas! 👋
 
-<!--
-**jonascostabrasil/jonascostabrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Scientist** passionate about turning data into insights and solutions. I work primarily with **Python** and **SQL** to analyze, visualize, and build data-driven applications.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages**: Python, SQL
+- **Libraries & Frameworks**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Databases**: PostgreSQL, MySQL, SQLite
+- **Data Science & Machine Learning**: Exploratory Data Analysis (EDA), Predictive Modeling, Data Wrangling
+- **Others**: Git, Jupyter Notebook, Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+Check out my repositories to see my latest projects on data analysis, machine learning, and automation.
+
+📫 **Let's connect!**
+- [LinkedIn](#) _(Add your LinkedIn link here)_
+- [Portfolio](#) _(If you have a portfolio website, add it here)_
+
+🚀 Always exploring new ways to leverage data for impactful solutions!
