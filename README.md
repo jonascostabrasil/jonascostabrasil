@@ -19,5 +19,7 @@ Check out my repositories to see my latest projects on data analysis, machine le
   <br>
   <br>
 
+🔗 **My GitHub Repositories:**  
+[**jonascostabrasil**](https://github.com/jonascostabrasil?tab=repositories)
 
 🚀 Always exploring new ways to leverage data for impactful solutions!
